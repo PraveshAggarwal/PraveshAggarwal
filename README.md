@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning React.Js and Django<br>I'm looking to collaborate on Frontend using React.Js
+I'm currently working on MERN stack<br>I'm looking to collaborate on MERN
 
 
 ## 🌐 Socials:
